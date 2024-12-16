@@ -1,0 +1,15 @@
+backend/
+├── src/
+│   ├── config/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── middlewares/
+│   ├── services/
+│   ├── utils/
+│   ├── index.js
+│   └── server.js
+├── .env 
+├── .gitignore
+├── package.json
+└── README.md
